@@ -1,0 +1,4 @@
+color black 
+sign aquarious  
+time night
+food all
